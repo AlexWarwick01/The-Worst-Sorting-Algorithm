@@ -1,1 +1,1 @@
-# The-Worst-Sorting-Alogrithm
+# The-Worst-Sorting-Algorithm
